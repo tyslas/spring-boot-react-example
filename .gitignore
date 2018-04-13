@@ -1,0 +1,11 @@
+/target/
+!server/.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+server/.idea
+server/*.iws
+server/*.iml
+server/*.ipr
+
+.DS_Store
+server/.DS_Store
